@@ -11,16 +11,24 @@
   </div>
  </div> 
 
-<div>
-
+- - -
+<div align="center">
+  
+  <strong>Summary</strong>
+  
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELBO0527)](https://github.com/ELBO0527/github-readme-stats)
+  
+  <strong>Skils</strong>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELBO0527&layout=compact)](https://github.com/ELBO0527/github-readme-stats)&nbsp;
 </div>
 <!--
 - - -
 <div  align="center">
   
-[![Solved.acapvlfntm](http://mazassumnida.wtf/api/v2/generate_badge?boj=apvlfntm)](https://solved.ac/apvlfntm) &nbsp;
+[![Solved.acapvlfntm](http://mazassumnida.wtf/api/v2/generate_badge?boj=apvlfntm)](https://solved.ac/apvlfntm)
+
+<strong>Skils</strong>
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=apvlfntm&theme=warm)
   
 </div>
