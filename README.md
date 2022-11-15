@@ -22,9 +22,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELBO0527&layout=compact)](https://github.com/ELBO0527/github-readme-stats)&nbsp;
   
-  BE
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Soring&logoColor=white"/>
-
 </div>
 <!--
 - - -
