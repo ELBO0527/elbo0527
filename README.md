@@ -6,6 +6,7 @@
 
 [![Solved.acapvlfntm](http://mazassumnida.wtf/api/v2/generate_badge?boj=apvlfntm)](https://solved.ac/apvlfntm) 
 
+</hr>
 ![mazandi apvlfntm](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
 <!--
 
